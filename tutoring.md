@@ -21,12 +21,12 @@ Drop-in Tutoring provides students with course-specific academic support in a 1:
  * While many students come to drop-in tutoring because of questions about an assignment, tutors are encouraged to help students review concepts related to the assignment and will not complete assignments for the student.
  * To opt for a virtual drop-in tutoring session, please call the LRC at 413-545-5334 to be put on our virtual queue.
 
-# Study Tips
-Study Tips provides students with the opportunity to discuss the organization, retention, and assignment management skills that help set up a strong foundation for academic achievement.
+# Study Skills
+Study Skills provides students with the opportunity to discuss the organization, retention, and assignment management skills that help set up a strong foundation for academic achievement.
 
- * Study Skill sessions are a part of LRC’s Drop-in Tutoring Services and are available on a first-come, first-served basis.
- * In a Study Skill session, students will work with a Peer Mentor Tutor (our most experienced cohort of tutors) to help the student determine successful learning and study strategies that work for them and set goals to guide success.
- * If requested, Study Skill sessions can be expanded into regular check-in meetings by appointment - please contact the LRC to setup regular check in’s - [lrc@umass.edu](mailto:lrc@umass.edu).
+ * Study Skills sessions are a part of LRC’s Drop-in Tutoring Services and are available on a first-come, first-served basis.
+ * In a Study Skills session, students will work with a Peer Mentor Tutor (our most experienced cohort of tutors) to help the student determine successful learning and study strategies that work for them and set goals to guide success.
+ * If requested, Study Skills sessions can be expanded into regular check-in meetings by appointment - please contact the LRC to setup regular check in’s - [lrc@umass.edu](mailto:lrc@umass.edu).
  * To access Study Skills – please see our Drop-In tutoring schedule (post link).
 
 # Tutoring course request
