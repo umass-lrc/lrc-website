@@ -43,7 +43,7 @@ alerts:
 open_closed_card:
   items:
     - title: Hours
-      content: The LRC is open for drop-in, virtual tutoring for a small selection of classes. Tutoring for Summer Session 2 will begin on Wednesday, July 13. Please email us with questions!
+      content: The LRC is open for virtual, drop-in tutoring for a small number of courses from Wednesday, July 13-Thursday, August 18. <a href = "https://docs.google.com/document/u/1/d/e/2PACX-1vQLju9tjidRcStn3iC4gUB54X0_TZ4WLOhuvfP9k-SVqB11TSj2xEdmmbQpAXqR0zMtffMC8SPqzo2a/pub">Please refer to this schedule</a> for supported courses, tutoring hours, and our drop-in tutoring link.
     - title: Address
       content: 10th floor, W.E.B. Du Bois Library, 154 Hicks Way, Amherst MA
       link: https://goo.gl/maps/nXjB7p5p6CocBAKB9
