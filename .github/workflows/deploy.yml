@@ -10,7 +10,9 @@ jobs:
     steps:
     - uses: actions/checkout@v2
     - name: Install Jekyll
-      run: apt-get install -yq jekyll
+      run: sudo apt-get install -yq jekyll
     - name: Build site
       run: jekyll build
+    - name: List files
+      run: ls -hal
 
