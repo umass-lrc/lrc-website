@@ -9,6 +9,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
+    - name: Install Jekyll
+      run: apt-get install -yq jekyll
     - name: Build site
       run: jekyll build
 
