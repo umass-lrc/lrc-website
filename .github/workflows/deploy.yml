@@ -9,10 +9,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
-    - name: Install Jekyll
-      run: sudo apt-get install -yq jekyll
+    - name: Install dependencies
+      run: sudo apt-get install -yq jekyll sshpass
     - name: Build site
       run: jekyll build
-    - name: List files
-      run: ls -hal
+    - name: Upload site
+      run: sshpass -e rsync --archive --verbose --delete "_site/" "lrc@webadmin.oit.umass.edu:/home/lrc/LRC_Webpage"
+      env:
+        SSHPASS: ${{ secrets.UMASS_SFTP_SERVER_PASSWORD }}
 
